@@ -1,3 +1,5 @@
+__author__ = 'Bernardo Godinho'
+
 import csv
 import mechanize
 import re
